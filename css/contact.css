@@ -5,19 +5,22 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(82, 147, 221)
+  background-color: rgb(82, 147, 221);
+  height: auto;
+}
+
+hr {
+  color: rgb(82, 147, 221);
 }
 
 li {
   float: left;
-}
-
-li {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 2vh;
 }
 
 a {
@@ -55,7 +58,7 @@ h3 {
   text-decoration: underline;
 }
 
-/* Comtainers */
+/* Containers */
 
 .container {
   text-align: center;
