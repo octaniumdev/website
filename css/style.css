@@ -12,7 +12,7 @@
 /* Base structure */
 
 body {
-  background-image: url('../assets/mountain.jpg');
+  background-image: url('../assets/mountain.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
