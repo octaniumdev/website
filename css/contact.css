@@ -101,5 +101,5 @@ h3 {
 /* Align left */
 
 .left {
-  text-align: left;
+  text-align: left !important;
 }
