@@ -62,7 +62,7 @@ h1 {
   transition: 150ms;
 }
 
-/* Hide name */
+/* Mobile optimisations */
 
 @media only screen and (max-width: 1026px) {
   .hide {
@@ -73,10 +73,12 @@ h1 {
     font-size: 1.5vh;
   }
 
-}
+  .aboutus {
+    width: 80%;
+  }
 
-/* Align left */
+  p, h1 {
+    margin: 10px;
+  }
 
-.left {
-  text-align: left !important;
 }
