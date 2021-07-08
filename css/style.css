@@ -82,3 +82,9 @@ h1 {
   }
 
 }
+
+/* Align left */
+
+.left {
+  text-align: left;
+}
