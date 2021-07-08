@@ -42,6 +42,11 @@ a:hover {
 /* About us */
 .aboutus {
   width: 60%;
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
 }
 
 /* FOSSHOST a class */
@@ -68,4 +73,10 @@ a:hover {
     font-size: 1.5vh;
   }
 
+}
+
+/* Align left */
+
+.left {
+  text-align: left !important;
 }
