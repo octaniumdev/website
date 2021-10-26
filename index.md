@@ -1,6 +1,8 @@
 ---
-layout: main
+layout: home
 ---
+
+
 
 # Cob:web-Aclevo
 
