@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -12,7 +11,6 @@
         <link rel="shortcut icon" type="image/png" href="assets/logo-trans.png" />
         <!-- CSS and JavaScript -->
         <link href="/assets/css/style.css" rel="stylesheet">
-        <link href="/assets/css/mobile-menu.css" rel="stylesheet">
         <script src="/assets/js/mobile-menu.js"></script> 
         <!-- Bootstrap core CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -24,30 +22,34 @@
 <div id="myNav" class="overlay">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <div class="overlay-content">
-        <a href="#" class="active">Home</a>
-        <a href="#projects">Projects</a>
-        <a href="/blog/">Blogs</a>
-        <a href="https://github.com/cobweb-aclevo">GitHub</a>
-        <a href="/contact/">Contact us</a>
+         <img src="/assets/logo.png" width="60px" />
+    <a href="/#about" class="nav-link">About Us</a>
+    <a href="/#projects" class="nav-link">Projects</a>
+    <a href="/updates" class="nav-link">Updates</a>
+    <a href="/blog" class="nav-link">Blog</a>
     </div>
 </div>
 
 <!-- Desktop Navbar -->
 <ul class="nav-ul">
-    <li style="float:right" class="nav-li"><a href="/contact/" class="nav-link">Contact us</a></li>
-    <li style="float:right" class="nav-li"><a href="https://github.com/cobweb-aclevo" class="nav-link">GitHub</a></li>
-    <li style="float:right" class="nav-li"><a href="/blog/" class="nav-link">Blogs</a></li>
-    <li style="float:right" class="nav-li"><a href="/#projects" class="nav-link">Projects</a></li>
-    <li style="float:right" class="nav-li"><a href="/#" class="nav-link active">Home</a></li>
+    <li class="nav-li"><img src="/assets/logo.png" width="60px" /></li>
+    <li class="nav-li"><a href="/#about" class="nav-link">About Us</a></li>
+    <li class="nav-li"><a href="/#projects" class="nav-link">Projects</a></li>
+    <li class="nav-li"><a href="/updates" class="nav-link">Updates</a></li>
+    <li class="nav-li"><a href="/blog" class="nav-link">Blog</a></li>
     <!-- Mobile menu button -->
     <li class="nav-mob-display" style="float:right; cursor: pointer;" onclick="openNav()">&#9776; Menu</li>
 </ul>
 
-<div class="content">
-    <div class="title">
-    <img src="/assets/logo.png" width="125vw" />
-    </div>
-    <h1>Cob:web-Aclevo</h1>
+
+<div class="main-hero">Innovative, Free Software for the Future!</div>
+
+<svg width="100%" version="1.1" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="m-3.665e-6 0.99523c0.073265 46.411 0.14653 92.823 0.2198 139.23h507.78c-0.0733-40.786-0.14654-81.572-0.21979-122.36-54.674 7.3864-106.75 25.782-158.98 42.644-43.812 14.411-92.969 21.736-136.6 2.6269-53.816-18.984-102.27-53.922-160.27-60.162-17.178-2.3759-34.614-4.1901-51.916-1.9855z" fill="#3459b8"/>
+</svg>
+<div class="blue-background">
+<div class="content" id="about">
+<h1>Cob:web-Aclevo</h1>
 <div class="title-text">
 <p>Cob:web-Aclevo is a development group centered around open source technology. We aim to have a diverse, unique range of projects relating to software &amp; software development.</p>
 </div>
@@ -65,6 +67,12 @@
 <h6>Security</h6>
 <p>We will always try to maintain and ensure that our apps are secure, however if a vulnerability is found, due to the open-source nature of our software you can either submit a fix yourself or contact one of our developers to bring the issue up with them so that we can ensure that everyone is protected whilst using our application.</p>
 <hr />
+</div>
+<svg width="100%" version="1.1" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="m-3.665e-6 0.99523c0.073265 46.411 0.14653 92.823 0.2198 139.23h507.78c-0.0733-40.786-0.14654-81.572-0.21979-122.36-54.674 7.3864-106.75 25.782-158.98 42.644-43.812 14.411-92.969 21.736-136.6 2.6269-53.816-18.984-102.27-53.922-160.27-60.162-17.178-2.3759-34.614-4.1901-51.916-1.9855z" fill="#101823"/>
+</svg>
+</div>
+<div class="content">
 <div id="projects">
 <h1>Our projects:</h1>
 <br>
@@ -79,8 +87,9 @@
 <p><a href="https://github.com/cobweb-aclevo/cssheet">CSSheet</a> -  CSSheet is a simple CSS framework for your website to aide developers and make their website development easier.</p>
 </li>
 </ul>
-
 </div>
+</div>
+
 
 <hr />
 

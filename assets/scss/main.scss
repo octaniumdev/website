@@ -1,28 +1,42 @@
-/* Custom navbar */
-/* Element & Div classes */
-/* Text classes */
-/* Mobile optimizations */
-/* If on desktop */
-/* Hide mobile display on desktop */
-/* If on mobile */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+
+.main-hero {
+	display: inline-block;
+	font-size: 32pt;
+	vertical-align: middle;
+	padding: 10% 1%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+svg {
+	vertical-align: unset;
+}
+
+.blue-background {
+	background-color: #3459b8;
+}
+
+
 .nav-ul {
 	color: white !important;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: rgb(82, 147, 221);
-	height: 7vh;
+	height: 8vh;
 }
 .nav-li {
 	color: white !important;
 	float: left;
 	display: block;
 	color: white;
-	text-align: center;
-	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 2vh !important;
+
+	.nav-link {
+		padding: 14px 16px;
+	}
 }
 .nav-mob-display {
 	color: white !important;
@@ -41,9 +55,10 @@
 	text-decoration: underline !important;
 }
 body {
-	background-color: #2d2d2d !important;
+	background-color: #101823 !important;
 	color: #c4c4c4 !important;
 	text-align: left !important;
+	font-family: 'Inter', sans-serif;
 }
 .content {
 	width: 50vw;

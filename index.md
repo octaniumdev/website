@@ -1,6 +1,13 @@
 ---
-layout: main
+layout: home
 ---
+
+<svg width="100%" version="1.1" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="m-3.665e-6 0.99523c0.073265 46.411 0.14653 92.823 0.2198 139.23h507.78c-0.0733-40.786-0.14654-81.572-0.21979-122.36-54.674 7.3864-106.75 25.782-158.98 42.644-43.812 14.411-92.969 21.736-136.6 2.6269-53.816-18.984-102.27-53.922-160.27-60.162-17.178-2.3759-34.614-4.1901-51.916-1.9855z" fill="#3459b8"/>
+</svg>
+
+<div class="blue-background">
+<div class="content" id="about">
 
 # Cob:web-Aclevo
 
@@ -34,6 +41,13 @@ We will always try to maintain and ensure that our apps are secure, however if a
 
 <hr />
 
+</div>
+<svg width="100%" version="1.1" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="m-3.665e-6 0.99523c0.073265 46.411 0.14653 92.823 0.2198 139.23h507.78c-0.0733-40.786-0.14654-81.572-0.21979-122.36-54.674 7.3864-106.75 25.782-158.98 42.644-43.812 14.411-92.969 21.736-136.6 2.6269-53.816-18.984-102.27-53.922-160.27-60.162-17.178-2.3759-34.614-4.1901-51.916-1.9855z" fill="#101823"/>
+</svg>
+</div>
+
+<div class="content">
 <div id="projects">
 
 # Our projects:
@@ -45,3 +59,6 @@ We will always try to maintain and ensure that our apps are secure, however if a
 - [StarWM](https://github.com/StarWM) - StarWM is an extensible, floating and tiling, X window manager for Linux-based operating systems written in Rust.
 
 - [CSSheet](https://github.com/cobweb-aclevo/cssheet) -  CSSheet is a simple CSS framework for your website to aide developers and make their website development easier.
+
+</div>
+</div>
