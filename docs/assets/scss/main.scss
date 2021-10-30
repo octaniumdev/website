@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
 
+.main-hero {
+	display: inline-block;
+	font-size: 32pt;
+	vertical-align: middle;
+	padding: 10% 1%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+svg {
+	vertical-align: unset;
+}
+
+.blue-background {
+	background-color: #3459b8;
+}
+
+
 .nav-ul {
 	color: white !important;
 	list-style-type: none;
