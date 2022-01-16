@@ -45,7 +45,7 @@
 <div class="content">
 
 <div class="title">
-<img src="../assets/logo.png" width="125vw" />
+<img src="../assets/logo-trans.png" width="125vw" />
 
 # Cob:web-Aclevo
 
