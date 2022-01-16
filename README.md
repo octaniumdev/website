@@ -1,11 +1,18 @@
+![Cob:Web-Aclevo Logo](https://cobweb-aclevo.org/assets/logo-trans.png)
 # Cob:web-Aclevo - Main page
-The GitHub pages repository for the main web-page.
-https://cobweb-aclevo.org
+<br/><br/>
+
+### The GitHub repository for Cob:Web-Aclevo's home on the internet.
+## https://cobweb-aclevo.org
+
+<br/><br/>
 
 # Made with love by Cob:web-Aclevo and our Open source contributors:
 
-Reasonably Selenium - Cob:Web-Aclevo Director
+* Reasonably Selenium - Cob:Web-Aclevo Director
 
-Adam Salt - Former Cob:web-Aclevo Director & Website maintainer
+* Adam Salt - Former Cob:web-Aclevo Director & Website maintainer
 
-### Please join the Cob:web-Aclevo discord to talk to us and contribute to our projects: https://discord.gg/z3GXvGtuek
+* Balzaen - Cob:Web-Aclevo Director
+<br/><br/>
+### Please join the [Cob:web-Aclevo Discord](https://discord.gg/z3GXvGtuek) to talk to us and contribute to our projects
