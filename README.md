@@ -1,11 +1,11 @@
 ![Cob:Web-Aclevo Logo](https://cobweb-aclevo.org/assets/logo-trans.png)
 # Cob:web-Aclevo - Main page
-<br/><br/>
+<br/>
 
 ### The GitHub repository for Cob:Web-Aclevo's home on the internet.
 ## https://cobweb-aclevo.org
 
-<br/><br/>
+<br/>
 
 # Made with love by Cob:web-Aclevo and our Open source contributors:
 
